@@ -1,0 +1,14 @@
+li {
+    padding: 15px;
+    background-color: antiquewhite;
+}
+
+    ol {
+        padding: 15px;
+        background-color: blueviolet;
+    }
+
+    header, .style {
+        padding: 15px;
+        background-color: brown;
+    }
